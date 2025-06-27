@@ -110,7 +110,7 @@ MIT License. Feel free to fork, contribute, or build your own biometric illusion
 
 ## 🧑‍💻 Credits
 
-Maintained by \[Your Name / Alias]
+Maintained by \[Phoenix / Dev512]
 Inspired by real-world biometric forensics & Windows internals research.
 
 ---
